@@ -1,0 +1,28 @@
+{
+"name": "NodeJSRepo",
+"version": "0.0.1",
+"description": "This package will return Lengths of Strings passed in an array",
+"main": "./lib/index.js",
+"repository": {
+"type": "git",
+"url": "https://github.com/Koushalya-D/NodeJSRepo"
+},
+"keywords": [
+"string-length"
+],
+"author": {
+"name": "Koushalya"
+},
+"readme": "# Return the lengths of Strings passed in an array (for learning purpose)nnStrLengthExercise module for team exercise,
+"readmeFilename": "README.md",
+"dependencies": {},
+"devDependencies": {},
+"optionalDependencies": {},
+"engines": {
+"node": "*"
+},
+"bugs": {
+"url": "https://github.com/Koushalya-D/NodeJSRepo/issues"
+},
+"homepage": "https://github.com/Koushalya-D/NodeJSRepo"
+}
